@@ -1,5 +1,4 @@
-# Emotion_detector
-This will detect your emotion based on the image
+
 # 🎭 Emotion Detection using Teachable Machine
 
 This project detects human emotions (like happy, surprise, or neutral) using a custom model trained in **Google Teachable Machine**.  
